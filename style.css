@@ -10,6 +10,7 @@ body {
     background-color: #f7f7f7;
     font-family: 'Quicksand', sans-serif;
     font-size: 1.2rem;
+    color: #353535;
 }
 .brand-logo {
     display: flex;
@@ -68,6 +69,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 120px;
 }
 .content h1 {
     margin-bottom: 32px;
@@ -122,3 +124,12 @@ body {
 }
 /* middle section */
 
+.brand {
+    margin-top: 48px;
+}
+.ui-ux {
+    margin-top: 48px;
+}
+.frontdev {
+    margin-top: 48px;
+}
