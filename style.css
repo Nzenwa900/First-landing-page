@@ -132,4 +132,21 @@ body {
 }
 .frontdev {
     margin-top: 48px;
+    margin-bottom: 64px;
+}
+footer {
+    margin: auto;
+    text-align: center;
+    padding: 8px;
+}
+footer h2 {
+    margin-bottom: 12px;
+}
+footer p {
+    margin-bottom: 8px;
+}
+.social-icons {
+    color: #353535;
+    padding-left: 6px;
+    margin-bottom: 48px;
 }
